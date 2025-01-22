@@ -1,0 +1,4 @@
+com\mycompany\shoppingcart\JAXRSConfiguration.class
+com\mycompany\shoppingcart\CorsFilter.class
+Entities\Card.class
+com\mycompany\shoppingcart\resources\JavaEE8Resource.class
